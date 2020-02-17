@@ -417,7 +417,7 @@ figure{
     }
 
     h2{
-        font-size: 19px;
+        font-size: 1.2em;
         margin-bottom: 20px;
     }
 
@@ -512,6 +512,10 @@ figure{
 
     .event img{
         width: 100%;
+    }
+
+    .event-list-title{
+        margin-left: 0;
     }
 
     .portfolio{
